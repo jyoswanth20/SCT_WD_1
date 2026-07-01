@@ -26,6 +26,9 @@ project-folder/
 - Domain: Web Development
 - Task: Responsive Landing Page
 
+## 📸 Preview
+<img width="1024" height="1039" alt="Screenshot 2026-07-01 at 1 54 52 PM" src="https://github.com/user-attachments/assets/58a08d52-5539-4132-8c6c-08c67e884a48" />
+
 
 ## 👨‍💻 Author
 **Jyoswanth Kandregula**
